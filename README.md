@@ -15,7 +15,7 @@ Ensure you have Go installed on your system. You can download it from the [offic
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/mygolangproject.git
+git clone https://github.com/KanoknartMeen/neversitup-test/tree/main
 ```
 
 Change into the project directory:
